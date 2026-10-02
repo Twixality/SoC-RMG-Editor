@@ -3,4 +3,9 @@ HTML-based visual editor for editing and exporting Songs of Conquest's random ma
 
 Provides visual representation of nodes and paths used in mapgen, aswell as some hardcoded values for most configurable fields and built in .json validation.
 
+Usage:
+Available on https://twixality.github.io/SoC-RMG-Editor/
+or
+Download index.html to use offline
+
 100% vibe coded, feel free to modify and redistribute.
