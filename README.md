@@ -6,6 +6,6 @@ Provides visual representation of nodes and paths used in mapgen, aswell as some
 Usage:
 Available on https://twixality.github.io/SoC-RMG-Editor/
 or
-Download index.html to use offline
+download index.html to use offline
 
 100% vibe coded, feel free to modify and redistribute.
